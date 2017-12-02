@@ -1,0 +1,80 @@
+.wreck{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.form_set{
+	padding:20px;
+	background:black;
+	margin-top:55px;
+}
+#h1{
+	text-align:center;
+	color:#28A745;
+	font-weight:bolder;
+	padding:40px;
+	background:-webkit-linear-gradient(top,white,grey);
+}
+#footer{
+	background:#2A2F36;
+	color:#797C80;
+	font-weight:bolder;
+}
+#contact{
+	border:1px solid transparent;
+	background:white;
+	border:none;
+	box-shadow:0 0 25px rgba(110,110,110,.3);
+	text-align:center;
+	padding:20px;
+	margin-bottom:80px;
+	margin-top:50px;
+	
+}
+#form1 >fieldset >input{
+	margin:5px 0px 5px;
+	padding:30px;
+	width:100%;
+	color:grey;
+	background:white;
+	font-size:20px;
+	font-weight:bolder;
+}
+#form1 >fieldset >textarea{
+	margin:5px 0 25px;
+	padding:10px 13px 90px;
+	width:100%;
+	font-size:20px;
+	font-weight:bolder;
+}
+#form1 >fieldset >#h1w{
+	margin:20px 0px 5px;
+	padding:30px;
+	font-size:20px;
+	font-weight:bolder;
+}
+#footer_part{
+	padding-left:200px;
+}
+#btne{
+	margin-left:10px;
+	margin-bottom:10px;
+}
+.article{
+	border:1px solid transparent;
+	padding:50px;
+	background:#fff;
+	margin:40px 0;
+	box-shadow:0 0 30px rgba(80,80,80,.5);
+}
+
+
+.about{
+	background:url('images/about.jpg')no-repeat center center fixed;
+	background-size:cover;
+	height:700px;
+}
+#abt{
+	color:grey;
+	font-weight:bolder;
+	
+}
